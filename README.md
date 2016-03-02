@@ -1,1 +1,3 @@
 # animation-for-transition
+
+Quick project to learn animations, transition, CAEmitterLayer... 
